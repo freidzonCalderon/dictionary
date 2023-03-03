@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;1,100;1,300;1,400&display=swap");
+
+.title {
+	font-family: "Poppins", sans-serif;
+	font-weight: 700;
+}
+
+.inputText {
+	border-radius: 0.5rem;
+	padding: 1rem;
+	border: none;
+	background-color: rgba(233, 233, 233, 0.592);
+}
+
+button {
+	margin: 0.5rem;
+	padding: 1rem;
+	border: 1px solid #ffffff;
+	background-color: transparent;
+}
+
+button:hover {
+	padding: 1rem;
+	border: 1px solid #DEE2E6;
+	border-radius: 1rem;
+}
