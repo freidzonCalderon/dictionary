@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Live Demo Click Here](https://to-do-application-project.netlify.app/).
+## [Live Demo Click Here](https://simple-dictionary-project.netlify.app/).
 
-The primary objective of this project was to apply the practical knowledge gained during my web development learning journey with React JS. I leveraged the power of React JS and Bootstrap to design the application, making it highly responsive and optimized for use across all devices. Whether you're accessing the application from your laptop, desktop, tablet, or smartphone, you can expect the same level of seamless performance and usability on all of them. This ensures that our application is accessible to everyone, regardless of the device they are using.
+This project was build with React JS, and it is fetching data from the [Dictionary API](https://dictionaryapi.dev/). I used Axios to fetch the data. 
 
-### Technologies used: React JS, Bootstrap
+### Technologies used: React JS, Bootstrap, Axios.
 
-To create a new task, simply click the (+) button to add a 'To-Do' item to your list. If you need to remove a task, click the trash button located next to the task. To mark a task as complete, simply click the checkbox next to it. 
+To search for a word within the dictionary, simply type the word that you are looking for and press the search button. 
 
 ### Preview
 
